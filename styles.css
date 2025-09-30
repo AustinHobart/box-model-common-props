@@ -264,7 +264,7 @@ p code, li code{
 }
 
 #section4 li::before{
-    content: 
+    content: none
 }
 
 #section5 p:last-of-type{
@@ -438,7 +438,7 @@ footer{
 */
 #section3 img{
      display: block;                  
-    width: 200px;                    /
+    width: 200px;                    
     height: auto;                    
     margin: 0 auto;                  
     filter: var(--filter-shadow-sm);
